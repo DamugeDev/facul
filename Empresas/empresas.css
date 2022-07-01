@@ -1,0 +1,92 @@
+h2,
+h1,
+h3,
+ul {
+    margin-left: 110px;
+}
+
+figcaption {
+    margin-left: 135px;
+}
+
+img {
+    margin-left: 120px;
+    height: 450px;
+    width: 700px;
+}
+
+p {
+    margin-left: 110px;
+    margin-right: 500px;
+    width: 80%;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.rodape {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(48, 43, 41, 0.699);
+    color: white;
+    position: absolute;
+    margin-bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Times New Roman';
+}
+
+#menu {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0%;
+    background-color: #006;
+    font-size: 17px;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#menu li {
+    display: inline;
+    padding-left: 2%;
+    padding-right: 35px;
+}
+
+#menu li a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    display: inline;
+    padding: 25px;
+    transition: background .4s;
+    font-size: 19px;
+    padding-right: 0%;
+}
+
+#menu li a:hover {
+    background-color: rgb(211, 214, 29);
+    color: #06F;
+}
+
+.conteudo {
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+div {
+    margin-top: 135px;
+}
+
+body {
+    background-color: rgb(212, 226, 223);
+    margin: 0%;
+}
+
+footer {
+    margin: 0%;
+}
